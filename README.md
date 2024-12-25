@@ -20,7 +20,7 @@ cd gesture-music-player
 ```
 
 ### 2️⃣ Install Dependencies
-*Make sure you have Python installed! Then, run:
+* Make sure you have Python installed! Then, run:
 
 ```bash
 Copy code
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the Program
-*Fire up your music player:
+* Fire up your music player:
 
 ```bash
 Copy code
@@ -89,4 +89,4 @@ gesture-music-player/
 Have questions, feedback, or just want to say hi? 👋 Reach out at:
 
 ✉️ Email: rakshasria7@gmail.com
-🐦 Twitter: @yourhandle
+
