@@ -59,9 +59,9 @@ gesture-music-player/
 └── .gitignore                 # Files to ignore in Git
 ```
 ### 🧠 How It Works
-** MediaPipe detects your hand landmarks in real time. 🖐️✨
-** Custom logic maps hand gestures to specific commands. 🧩
-** Pygame Mixer handles music playback and volume control. 🎛️
+** MediaPipe detects your hand landmarks in real time. 🖐️✨ **
+** Custom logic maps hand gestures to specific commands. 🧩 **
+** Pygame Mixer handles music playback and volume control. 🎛️ **
 ### 📸 Screenshots
 
 
@@ -69,16 +69,16 @@ gesture-music-player/
 
 
 ### 💡 Ideas for Improvement
-** 🧪 Add new gestures for skipping tracks ⏩ or replaying ⏪.
-** 📊 Use machine learning to recognize complex custom gestures.
-** 🌐 Deploy it as a web app using Flask or Streamlit.
-** 🤝 Contributing
-* Want to make this project even cooler? 😎 Feel free to:
+* 🧪 Add new gestures for skipping tracks ⏩ or replaying ⏪. 
+* 📊 Use machine learning to recognize complex custom gestures.
+* 🌐 Deploy it as a web app using Flask or Streamlit.
+* 🤝 Contributing
+** Want to make this project even cooler? 😎 Feel free to: **
+* Fork the repo 🍴
+* Create a new branch 🌿
+* Make your changes ✨
+* Submit a pull request! 🚀
 
-** Fork the repo 🍴
-** Create a new branch 🌿
-** Make your changes ✨
-** Submit a pull request! 🚀
 ## 🛡️ License
 ## This project is licensed under the MIT License. 📜 See the LICENSE file for details.
 
