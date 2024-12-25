@@ -20,7 +20,7 @@ cd gesture-music-player
 ```
 
 ### 2️⃣ Install Dependencies
-** Make sure you have Python installed! Then, run:
+*Make sure you have Python installed! Then, run:
 
 ```bash
 Copy code
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the Program
-** Fire up your music player:
+*Fire up your music player:
 
 ```bash
 Copy code
@@ -36,14 +36,14 @@ python src/main.py
 ```
 
 ### 4️⃣ Enjoy!
-** Control your music using gestures in front of your webcam! 📹🎉
+* Control your music using gestures in front of your webcam! 📹🎉
 
 ## ✋ Gesture Commands
-** Gesture ✋	Action 🎵
-* 1 ☝️	Play Music ▶️
-* 2 ✌️	Stop Music ⏹️
-* 3 🤟	Volume Up 🔊
-* 4 ✋	Volume Down 🔉
+** Gesture ✋	Action 🎵 **
+* 1 🤚	Play Music ▶️
+* 2 ✊	Stop Music ⏹️
+* 3 👍	Volume Up 🔊
+* 4 👎	Volume Down 🔉
 ## 📂 Project Structure
 ```bash
 gesture-music-player/
@@ -59,9 +59,11 @@ gesture-music-player/
 └── .gitignore                 # Files to ignore in Git
 ```
 ### 🧠 How It Works
-** MediaPipe detects your hand landmarks in real time. 🖐️✨ **
-** Custom logic maps hand gestures to specific commands. 🧩 **
-** Pygame Mixer handles music playback and volume control. 🎛️ **
+**MediaPipe detects your hand landmarks in real time. 🖐️✨**
+
+**Custom logic maps hand gestures to specific commands. 🧩**
+
+**Pygame Mixer handles music playback and volume control. 🎛️**
 ### 📸 Screenshots
 
 
@@ -73,17 +75,18 @@ gesture-music-player/
 * 📊 Use machine learning to recognize complex custom gestures.
 * 🌐 Deploy it as a web app using Flask or Streamlit.
 * 🤝 Contributing
-** Want to make this project even cooler? 😎 Feel free to: **
+  
+**Want to make this project even cooler? 😎 Feel free to:**
+
 * Fork the repo 🍴
 * Create a new branch 🌿
 * Make your changes ✨
 * Submit a pull request! 🚀
 
-## 🛡️ License
-## This project is licensed under the MIT License. 📜 See the LICENSE file for details.
+
 
 💬 Contact
 Have questions, feedback, or just want to say hi? 👋 Reach out at:
 
-✉️ Email: your-email@example.com
+✉️ Email: rakshasria7@gmail.com
 🐦 Twitter: @yourhandle
