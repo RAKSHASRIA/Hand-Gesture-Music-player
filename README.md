@@ -26,11 +26,11 @@ cd gesture-music-player
 pip install -r requirements.txt
 
 #Ensure you have the following installed:
-1. Python 3.7 or higher
-2. Required Python libraries:
-   - OpenCV
-   - MediaPipe
-   - Pygame
+#1. Python 3.7 or higher
+#2. Required Python libraries:
+   #- OpenCV
+   #- MediaPipe
+   #- Pygame
 ```
 
 ### 3️⃣ Run the Program
