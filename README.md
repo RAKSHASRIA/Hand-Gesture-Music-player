@@ -23,7 +23,6 @@ cd gesture-music-player
 * Make sure you have Python installed! Then, run:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
@@ -31,7 +30,6 @@ pip install -r requirements.txt
 * Fire up your music player:
 
 ```bash
-Copy code
 python src/main.py
 ```
 
