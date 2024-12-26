@@ -42,6 +42,15 @@ python src/main.py
 * 2 ✊	Stop Music ⏹️
 * 3 👍	Volume Up 🔊
 * 4 👎	Volume Down 🔉
+
+## Prerequisites
+Ensure you have the following installed:
+1. Python 3.7 or higher
+2. Required Python libraries:
+   - OpenCV
+   - MediaPipe
+   - Pygame
+
 ## 📂 Project Structure
 ```bash
 gesture-music-player/
@@ -56,14 +65,19 @@ gesture-music-player/
 ├── requirements.txt           # Python dependencies
 └── .gitignore                 # Files to ignore in Git
 ```
+
 ## 🧠 How It Works
 **MediaPipe detects your hand landmarks in real time. 🖐️✨**
 
 **Custom logic maps hand gestures to specific commands. 🧩**
 
 **Pygame Mixer handles music playback and volume control. 🎛️**
-## 📸 Screenshots
+## 📸 Demo Screenshots
+* Start the script and try these gestures in front of your webcam:
 
+* Open hand to play/pause the music.
+* Closed fist to stop the music.
+* Thumb up/down to adjust the volume.
 
 ## 🎥 Coming Soon!
 
