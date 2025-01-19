@@ -51,21 +51,6 @@ python src/main.py
 * 4 👎	Volume Down 🔉
 
 
-## 📂 Project Structure
-```bash
-gesture-music-player/
-├── src/
-│   ├── main.py                # Main program file
-│   ├── gesture_utils.py       # Hand gesture utility functions
-├── music/
-│   └── your_music_file.mp3    # Music files (add your own!)
-├── tests/
-│   └── test_gestures.py       # Test scripts (optional)
-├── README.md                  # Project documentation
-├── requirements.txt           # Python dependencies
-└── .gitignore                 # Files to ignore in Git
-```
-
 ## 🧠 How It Works
 **MediaPipe detects your hand landmarks in real time. 🖐️✨**
 
