@@ -57,13 +57,6 @@ python src/main.py
 **Custom logic maps hand gestures to specific commands. 🧩**
 
 **Pygame Mixer handles music playback and volume control. 🎛️**
-## 📸 Demo Screenshots
-* Start the script and try these gestures in front of your webcam:
-
-* Open hand to play/pause the music.
-* Closed fist to stop the music.
-* Thumb up/down to adjust the volume.
-
 ## 🎥 Coming Soon!
 
 
